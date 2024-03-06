@@ -1,0 +1,289 @@
+*{
+box-sizing:border-box;
+margin:0;
+padding:0;
+}
+ 
+header{
+min-height:120px;
+background-color:rgba(10,10,225,0.7);
+width:100%;
+position:fixed;
+}
+
+.myboss{
+color:white;
+float:left;
+font-family:serif;
+font-weight:bold;
+padding-left:35px;
+width:50%;
+line-height:125px;
+font-size:4vw;
+}
+
+#boss{
+width:50%;
+float:right;
+line-height:120px;
+}
+
+ul{
+margin:0;
+padding:0;
+list-style-type:none;
+}
+
+li a{
+float:left;
+}
+
+li a{
+color:white;
+padding:25px;
+text-decoration:none;
+text-align:center;
+font-weight:bold;
+font-size:1em;
+font-weight:bold;
+}
+
+#yemen{
+background-color:blue;
+width:100%;
+min-height:400px;
+}
+
+#set{
+padding:70px;
+}
+#set img{
+float:left;
+}
+
+#set p{
+color:lightgray;
+font-size:2.5em;
+line-height:50px;
+padding-bottom:70px;
+}
+
+#gee{
+padding:200px;
+}
+
+#gee p{
+color:lightgray;
+font-size:5vw;
+line-height:60px;
+padding-bottom:65px;
+}
+
+#gee a{
+border:2px solid#000;
+font-size:3vw;
+border-radius:50px;
+background-color:darkblue;
+padding:50px;
+color:white;
+text-align:center;
+display:inline-block;
+text-decoration:none;
+}
+
+#gee h3{
+font-size:5vw;
+}
+
+#bee{
+background-color:rgba(8, 98, 71, 0.1);
+width:95%;
+margin:auto;
+
+}
+
+#bee h1{
+text-align:center;
+font-size:3.5em;
+padding-top:150px;
+}
+#bee img{
+padding-left:60px;
+}
+
+#bee a{
+font-size:2em;
+padding:55px;
+border:2px solid darkblue;
+text-decoration:none;
+color:white;
+background-color:darkblue;
+display:inline-block;
+text-align:center;
+margin-left:300px;
+}
+
+.boot{
+width:95%;
+border:2px solid black;
+border-radius:5px;
+display:inline-block;
+margin:20px;
+}
+
+.boot p{
+color:lightgray;
+font-size:4vw; margin-left:50px;
+line-height:100px;
+}
+
+
+.pen{
+width:95%;
+border:2px solid black;
+border-radius:5px;
+display:inline-block;
+margin:20px;
+}
+
+.pen p{
+color:lightgray;
+font-size:4vw; margin-left:50px;
+line-height:100px;
+}
+
+
+.mon{
+width:95%;
+display:inline-block;
+margin:20px;
+}
+
+.mon h5{
+color:blue;
+font-size:3vw;
+}
+
+.mon p{
+font-size:8vw;
+}
+
+.cap{
+background-color:lightgray;
+width:80%;
+min-height:200px;
+}
+
+.bvn{
+width:95%;
+display:inline-block;
+margin:20px;
+
+}
+
+.bvn h1{
+font-size:6vw;
+}
+
+.bvn p{
+font-size:3vw;
+color:lightgray;
+}
+
+div{
+padding-bottom:40px;
+}
+
+.mono h1{
+color:darkblue;
+text-align:center;
+font-size:5vw;
+}
+.mono p{
+color:lightgray;
+text-align:center;
+color:lightgray;
+font-size:6vw;
+font-family:serif;
+}
+
+  
+
+.bob{
+width:100%;
+padding:80px;
+}
+
+#bet h1{
+font-size:5vw;
+font-family:verdana;
+}
+
+#bet p{
+font-family:courier;
+font-size:5vw;
+line-height:65px;
+}
+
+.bim{
+width:100%;
+background-color:lightgray;
+}
+
+.bok{
+font-size:6vw;
+text-align:center;
+padding:100px;
+font-family:verdana;
+}
+ 
+#pull {
+width:100%;
+padding:100px;
+}
+
+#pull p{
+font-family:courier;
+font-size:45px;
+}
+#pull h2{
+font-family:verdana;
+font-size:4vw;
+}
+
+
+.big{
+width:90%;
+box-shadow:10px 15px 16px lightgray inset;
+display:inline-block;
+border:4px solid lightgray;
+margin:50px;
+}
+
+
+
+#bae p{
+font-family:courier;
+font-size:4vw;
+line-height:6vw;
+text-align:center;
+margin:0;
+color:lightgray;
+
+}
+#bae h5{
+color:blue;
+font-size:21px;
+padding-left:26px;
+}
+
+#bae h1{
+color:blue;
+font-size:7vw;
+text-align:center;
+font-family:san-serif;
+}
+
+#bae h2{
+font-size:5vw;
+}
